@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Victor Corsi</h1>
 <h3 align="center">A frontend developer from Brazil</h3>
 
-- 🌱 I’m currently learning **:**
-
 <h3 align="left">Front End Languages and Tools:</h3>
 <p align="left">
     <a href="https://angular.io" target="_blank" rel="noreferrer">
