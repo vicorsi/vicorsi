@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Victor Corsi</h1>
 <h3 align="center">A frontend developer from Brazil</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vicorsi&label=Profile%20views&color=0e75b6&style=flat" alt="vicorsi" /> </p>
-
 - 🌱 I’m currently learning **:**
 
 <h3 align="left">Front End Languages and Tools:</h3>
